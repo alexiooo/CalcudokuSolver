@@ -1,8 +1,6 @@
 .idea/*
 cmake-*/*
 CMakeFiles/*
-*.wasm
-*.js
 *.exe
 *.cmake
 CMakeCache.txt
